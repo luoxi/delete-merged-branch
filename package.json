@@ -26,6 +26,7 @@
     "semantic-release": "semantic-release"
   },
   "dependencies": {
+    "@slack/client": "^4.8.0",
     "probot": "7.4.0"
   },
   "devDependencies": {
